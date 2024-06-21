@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="211d7268-cf50-4669-9109-d25a2b6b0056" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="25mteYcMadKmjmUNNdWfAViws20" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="211d7268-cf50-4669-9109-d25a2b6b0056" name="Changes" comment="" />
+      <created>1646144191239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646144191239</updated>
+      <workItem from="1646144195008" duration="3283000" />
+      <workItem from="1648294416141" duration="1186000" />
+      <workItem from="1648345576439" duration="209000" />
+      <workItem from="1648388459254" duration="9454000" />
+      <workItem from="1648429342567" duration="4381000" />
+      <workItem from="1650881264262" duration="10495000" />
+      <workItem from="1651296427620" duration="4872000" />
+      <workItem from="1652092716846" duration="4774000" />
+      <workItem from="1652594624495" duration="15739000" />
+      <workItem from="1652967564859" duration="1687000" />
+      <workItem from="1653041299539" duration="679000" />
+      <workItem from="1653272501084" duration="1092000" />
+      <workItem from="1653546294176" duration="1195000" />
+      <workItem from="1654507612759" duration="1058000" />
+      <workItem from="1654543286752" duration="305000" />
+      <workItem from="1654576910181" duration="11687000" />
+      <workItem from="1654751313549" duration="1872000" />
+      <workItem from="1654821394596" duration="6878000" />
+      <workItem from="1654851211828" duration="432000" />
+      <workItem from="1680048828910" duration="14696000" />
+      <workItem from="1680067128166" duration="204000" />
+      <workItem from="1717714425849" duration="6715000" />
+      <workItem from="1717753385015" duration="5880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
